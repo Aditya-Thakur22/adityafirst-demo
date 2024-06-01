@@ -1,4 +1,4 @@
 # adityafirst-demo
 this is my first git repository 
 <br>
-Author - Aditya Thakur
+Author - Aditya Thakur yo
